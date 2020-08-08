@@ -1,0 +1,137 @@
+#container0{
+    background-position: center;
+	background-size: cover;
+    background-clip: border-box;
+    background-image:url(/static/images/Picture0.jpg);
+    background-blend-mode: soft-light;
+}
+
+#farmers{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    text-underline-position: auto;
+
+}
+
+#loss{
+    font-size: 40px;
+    font-weight: bold;
+    color:red;
+    text-align: center;
+    text-underline-position: auto;
+
+}
+
+#pests{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    text-underline-position: auto;
+}
+#fils1{
+    font-size: 40px;
+    font-weight: bold;
+    color:red;
+    text-align: center;
+    text-underline-position: auto;
+}
+#fils2{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    text-underline-position: auto;
+}
+
+#container1{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-clip: border-box;
+    background-image:url(/static/images/Picture9.jpg);
+    background-blend-mode: soft-light;
+}
+
+#rice{
+    font-weight: bold;
+    font-size: 22px; 
+    color:black;
+    text-align: center;
+}
+
+#header1{
+    font-size: 40px;
+    font-weight: bold;
+     color: floralwhite;
+     text-align: center;
+     text-underline-position: auto;
+}
+
+#p1{
+    font-weight: bold;
+    font-size: 40px; 
+    color:rgba(255, 166, 0, 0.932);
+    text-align: center;
+}
+
+#p2{
+    font-weight: bold;
+    font-size: 30px; 
+    color:white;
+    text-align: center;
+}
+#note{
+    font-weight: bold;
+    font-size: 17px;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+#p3{
+    font-size: 15px; 
+    color:white;
+    text-align: center;
+}
+
+#upload-image{
+    font-size: 20px; 
+    color:white;
+    text-align: center;
+}
+
+#upload-image {
+    height: 60px;
+    line-height: 60px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    color: white;
+}
+
+#upload-image-container{
+    text-align: center;
+}
+
+#predict{
+    font-weight: bold;
+    font-size: 20px; 
+    color:black;
+    text-align: center;
+}
+
+#diagnosis{
+    background-position: center;
+	background-size: cover;
+    background-clip: border-box;
+    background-image:url(/static/images/Picture2.jpg);
+    background-blend-mode: soft-light;
+    color:white;
+}
+/* #output-image-upload {
+
+} */
